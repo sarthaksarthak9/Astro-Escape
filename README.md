@@ -20,7 +20,7 @@ Rocket Meteors is a terminal-based game written in C++ using the ncurses library
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/devansh1401/Rocket_Meteors.git
+git clone https://github.com/username/Rocket_Meteors.git
 ```
 #### Compile the Game
 Navigate to the project directory:
